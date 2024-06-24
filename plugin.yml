@@ -2,7 +2,7 @@ name: MineReset
 main: falkirks\minereset\MineReset
 version: 3.3.0
 author: Falk
-api: [3.0.0, 4.0.0]
+api: 5.0.0
 load: POSTWORLD
 softdepend: [SimpleWarp, EasyForms]
 permissions:
