@@ -1,6 +1,6 @@
-name: MineReset
+name: MineResetX
 main: falkirks\minereset\MineReset
-version: 3.3.0
+version: 4.0.0
 author: Falk
 api: 5.0.0
 load: POSTWORLD
